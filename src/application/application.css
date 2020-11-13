@@ -1,0 +1,37 @@
+/*
+ * The style sheet for the pizza order system
+ * Yue Cai 14yc26 10168332
+ */
+
+.root {
+	-fx-hgap: 10px;
+	-fx-vgap: 10px;
+	-fx-alignment: center;
+	-fx-padding: 30px;
+}
+
+.button {
+	-fx-font-family: "Ayuthaya";
+	-fx-font-size: 15px;
+}
+
+.label {
+	-fx-font-family: "Consolas";
+	-fx-font-size: 20px;
+}
+
+.choiceBox {
+	-fx-font-family: "Ayuthaya";
+	-fx-font-size: 15px;
+}
+
+.textField {
+	-fx-font-family: "Consolas";
+	-fx-font-size: 18px;
+}
+
+.textArea {
+	-fx-font-family: "Ayuthaya";
+	-fx-font-size: 16px;
+	-fx-alignment: top-left;
+}
